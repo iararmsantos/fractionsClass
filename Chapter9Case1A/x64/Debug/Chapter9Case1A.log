@@ -1,0 +1,8 @@
+﻿  DoublingMathProblem.cpp
+  Fraction.cpp
+C:\Users\iarar\Documents\Class\Semester2\CIS163_OO\BookProjects\Chapter10Case1B\Chapter9Case1A\Fraction.cpp(209,16): warning C4101: 'greater2': unreferenced local variable
+C:\Users\iarar\Documents\Class\Semester2\CIS163_OO\BookProjects\Chapter10Case1B\Chapter9Case1A\Fraction.cpp(209,6): warning C4101: 'greater1': unreferenced local variable
+  Main.cpp
+  MathProblem.cpp
+  Generating Code...
+  Chapter9Case1A.vcxproj -> C:\Users\iarar\Documents\Class\Semester2\CIS163_OO\BookProjects\Chapter10Case1B\x64\Debug\Chapter9Case1A.exe
